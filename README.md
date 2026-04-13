@@ -1,2 +1,2 @@
 # Powershell_Mix
-A miscellaneous tool in powershell
+A miscellaneous tools in powershell
