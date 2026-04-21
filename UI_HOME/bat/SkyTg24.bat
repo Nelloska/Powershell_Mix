@@ -1,0 +1,1 @@
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Firefox.lnk" https://video.sky.it/diretta/tg24

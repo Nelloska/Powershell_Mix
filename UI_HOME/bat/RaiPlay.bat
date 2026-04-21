@@ -1,0 +1,1 @@
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Edge.lnk" https://www.raiplay.it/dirette/

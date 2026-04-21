@@ -1,0 +1,1 @@
+notepad.exe "C:\UI_HOME\bat\Streaming.bat"

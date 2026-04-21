@@ -1,0 +1,1 @@
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk" https://docs.google.com/spreadsheets
